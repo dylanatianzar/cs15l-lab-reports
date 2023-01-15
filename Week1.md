@@ -54,10 +54,10 @@ You are now connected to the server, and it is ready to use!
 # Trying commands in Remote Server
 Simply run some commands in terminal in order to use the connected server.
 In this case, I will run
-`ls` to list the items in the current directory
-`mkdir test` to make an empty folder
-`pwd` to show the current directory
-`cd test` to change current directory to the new folder
+- `ls` to list the items in the current directory
+- `mkdir test` to make an empty folder
+- `pwd` to show the current directory
+- `cd test` to change current directory to the new folder
 
 It is shown like this:
 ![Link](https://user-images.githubusercontent.com/69043855/212568782-04a2687a-8990-49b8-9e15-81e327b676c3.png)
