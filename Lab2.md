@@ -37,6 +37,7 @@ public class StringServer {
 }
 ```
 ![Link](https://user-images.githubusercontent.com/69043855/215021280-2d4a44c2-c30f-4b4b-b755-777c8ed8ddbd.png)
+
 Everytime a link is input, the method handleRequest is called. Thus, all that is required as a parameter is the url link.
 
 ![Link](https://user-images.githubusercontent.com/69043855/215035170-30e3edd0-8e3e-4462-86a1-e58e25298630.png)
