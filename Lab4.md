@@ -3,6 +3,7 @@
 ## Step 4: Log into ieng6
 Keys pressed: `<up><enter>`
 The `ssh` command used to log into the ieng6 machine was 1 up in the search history, so I used the up arrow to access it. 
+
 ![Image](https://user-images.githubusercontent.com/69043855/221689755-a77cb52d-18ca-4d1f-8a2d-fc0c63fa0c23.png)
 
 ## Step 5: Clone Lab 7 Repository Fork
