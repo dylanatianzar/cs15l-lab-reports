@@ -23,7 +23,8 @@ First, I typed `cat ListExamples.java` to see the code of the java file to spot 
 `nano ListExamples.java` command to edit the file. I pressed `<down>` until I got to that line and `<right>` until I got to the word index1. 
 I pressed: `<backspace> 2` to replace the "1" with a 2 and `<ctrl-o><enter><ctrl-x>` to save the changes and exit the nano command. 
 
-![Image](https://user-images.githubusercontent.com/69043855/221695916-9f91d7e1-67c4-44c3-9d66-1c969866d2a9.png)
+![Image](https://user-images.githubusercontent.com/69043855/221698898-d1c2348d-bd81-4753-8119-fcbc9f4da69e.png)
+![Image](https://user-images.githubusercontent.com/69043855/221699197-279f7783-2461-4f0f-84e6-e0f53f33479f.png)
 ## Step 8: Run the tests, demonstrating that they now succeed
 Keys pressed: `<up><up><up><up><enter>`, `<up><up><up><up><enter>`
 The `javac -cp .:./lib/hamcrest-core-1.3.jar:./lib/junit-4.13.2.jar *.java` was 4 up in the history, and so I used the up arrow to access it. After
