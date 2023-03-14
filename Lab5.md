@@ -1,7 +1,7 @@
 # Lab 5 Report Dylan Atianzar A17609722
 ## Turning Lab 4 into a Bash Script
 For this task, I revisited my Lab 4 Report. By looking through each command, I turned the commands from Lab 4 into a bash script.
-First, I created a local .sh file titled "LabFourInBash.sh". Then, I put the commands into the bash script and tested it locally. This had worked
+First, I created a local .sh file titled **"LabFourInBash.sh"**. Then, I put the commands into the bash script and tested it locally. This had worked
 locally, but Lab 4 is about connecting to the ieng6 server and performing the commands. Initially, I had just put the  `ssh login` command at the beginning;
 however, that wasn't working because it wouldn't perform the commands automatically. I ended up looking up and finding that in order to process the
 commands automatically after login, I had to add them on the same line as the ssh login. This meant my final bash script looked like this
